@@ -1,0 +1,22 @@
+# Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Statistical Analysis
+scipy
+statsmodels
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
+
+# Excel Data Support
+openpyxl
