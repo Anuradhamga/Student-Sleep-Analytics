@@ -11,6 +11,7 @@ numpy
 # Data Visualization
 matplotlib
 seaborn
+plotly
 
 # Statistical Analysis
 scipy
