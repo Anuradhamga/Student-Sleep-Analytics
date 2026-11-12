@@ -1,3 +1,9 @@
+# Web Application
+streamlit
+
+# Cloud Database
+supabase
+
 # Data Analysis
 pandas
 numpy

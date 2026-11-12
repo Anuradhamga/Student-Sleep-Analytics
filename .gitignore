@@ -229,3 +229,8 @@ __marimo__/
 
 # Temporary files
 tempCodeRunnerFile.py
+# Protect Supabase credentials
+**/.streamlit/secrets.toml
+
+# Protect local database
+dataset/raw/student_sleep_data.db
