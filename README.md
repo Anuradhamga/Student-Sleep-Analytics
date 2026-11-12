@@ -209,12 +209,17 @@ The applications are deployed using Streamlit Community Cloud.
 
 ### Public Data Collection Form
 
-[Open Public Data Collection Form](https://student-sleep-analytics-5ofor3c6b9rvgy542g8jnw.streamlit.app/)
+## 🌐 Cloud Deployment
+
+The applications are deployed using Streamlit Community Cloud.
+
+### Public Data Collection Form
+
+[Open Public Data Collection Form](https://student-sleep-analytics-mnyk3gxjsyaipnhny5v8fp.streamlit.app/)
 
 ### Admin Dashboard
 
-[Open Admin Dashboard](https://student-sleep-analytics-mnyk3gxjsyaipnhny5v8fp.streamlit.app/)
-
+[Open Admin Dashboard](https://student-sleep-analytics-5ofor3c6b9rvgy542g8jnw.streamlit.app/)
 ## 🧪 System Testing
 
 The following components have been tested:
